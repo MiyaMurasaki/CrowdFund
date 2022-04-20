@@ -1,2 +1,2 @@
-# Crowdfunding
+# Crowdfunding Web application
 
