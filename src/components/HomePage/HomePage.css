@@ -1,0 +1,24 @@
+.search-bar {
+     margin: 10px; 
+}
+
+.logo {
+    /* align-content: center; */
+    /* display: flex; */
+    margin-top: 10px;
+    text-align: center;
+}
+
+.sub-heading {
+    margin: 10px;
+    text-align: center;
+}
+.caption-container{
+   font-family: Roboto, sans-serif;
+   font-size: 1.25rem;
+   border-radius: 1.25rem;
+   background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+}
+.caption-container>h3{
+    text-transform: uppercase;
+}

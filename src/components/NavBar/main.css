@@ -1,0 +1,18 @@
+.nav-links{
+    background: #fff;
+}
+.login{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.login-btn{
+    border: 2px solid #fff;
+    color: #fff;
+}
+.logout-btn{
+    border: 2px solid #fff;
+    color: #fff;
+}
